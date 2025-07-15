@@ -245,6 +245,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [CrewAI](https://crewai.com/) framework
 - Powered by OpenAI's language models
 - Demonstrates advanced multi-agent customer support automation
+- Reference Course: https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction
 
 ## Support
 
